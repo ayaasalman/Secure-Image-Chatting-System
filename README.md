@@ -1,4 +1,4 @@
-## Secure Image Chatting System
+# Secure Image Chatting System
 
 This project is for a Software Engineering course. It is a preview of a secure image chatting system using Elliptic Curve Cryptography (ECC).
 
