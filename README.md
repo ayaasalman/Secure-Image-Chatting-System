@@ -1,6 +1,6 @@
 # Secure Image Chatting System
 
-This project is for a Software Engineering course. It is a preview of a secure image chatting system using Elliptic Curve Cryptography (ECC).
+This project is for a Software Engineering course at Princess Sumaya University for Technology. It is a preview of a secure image chatting system using Elliptic Curve Cryptography (ECC).
 
 For each image, an "Elliptic" object is created, with data members "a" and "b" corresponding to coefficents in the elliptic curve function. Data member "p" as the prime number defining the finite field. "xg" and "yg" being the coordinates of the point G.
 
